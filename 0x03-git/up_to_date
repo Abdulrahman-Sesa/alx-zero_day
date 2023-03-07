@@ -1,1 +1,1 @@
-mkdir ub_to_date
+git pull origin main
